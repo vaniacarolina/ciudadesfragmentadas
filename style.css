@@ -1,0 +1,7 @@
+body {
+  background: url('https://raw.githubusercontent.com/vaniacarolina/ciudadesfragmentadas/gh-pages/Captura%20de%20pantalla%202020-10-06%20a%20la(s)%201.49.43%20p.%20m..png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
